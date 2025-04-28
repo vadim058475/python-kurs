@@ -1,4 +1,4 @@
-my python kurs AG Informatik
+Meine Python kurs und AG Informatik in Schule an der Haveldüne, Berlin, Deutschland
 
 # 🐍 Python Kurs für Anfänger
 
@@ -15,10 +15,9 @@ Dieser Kurs hilft dir, Python von Grund auf zu lernen – egal ob du noch nie pr
 * Grundlagen der objektorientierten Programmierung
 * Kleine Projekte und Übungen
 
-python download 
+python download
 
 https://www.python.org/downloads/
-
 
 ## 🎯 Lernziele
 
